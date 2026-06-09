@@ -55,8 +55,8 @@ That's it. No configuration files. No code. It just works.
 
 | Resource | Operations |
 |----------|------------|
-| Plugins | GET List all the Wellknown AI Plugins. |
-| Default | GET GET Api Plugins |
+| Plugins | Get list all the wellknown ai plugins |
+| Default | Get api plugins |
 
 ---
 
